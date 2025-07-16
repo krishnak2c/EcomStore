@@ -1,6 +1,6 @@
 import "./style.css";
-import products from "./api/products.json";
-import { showProductContainer } from "./homeProductCards";
+import products from "./products.json";
+import { showProductContainer } from "./homeProductCards.js";
 import "./footer.js";
 import "./addToCart.js"
 import "./fetchQuantityFromCartLS.js"
