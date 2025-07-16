@@ -37,7 +37,6 @@ html {
 body {
   margin: 0 auto;
   padding: 0 32px;
-  min-width: 450px;
   background-color: var(--backgroundColor);
 }
 

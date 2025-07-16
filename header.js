@@ -14,8 +14,8 @@ const headerHTML = `
         <div class="navbar-brand">
           <a href="index.html">
             <img
-              src="./public/images/log.png"
-              alt="Ecom eCommerce logo"
+              src="./images/log.png"
+              alt="Ecom logo"
               class="logo"
               width="80%"
               height="auto"
@@ -41,7 +41,7 @@ const headerHTML = `
             <li class="nav-item">
               <a href="contact.html" class="nav-link">contact</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item fixed -top-1/10 right-2 sm:right-6 transform -translate-y-1/2 bg-black text-white p-2 rounded-md z-50">
               <a
                 href="addToCart.html"
                 class="nav-link add-to-cart-button"

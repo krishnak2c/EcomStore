@@ -1,5 +1,4 @@
-# CSS needs to be fixed for small screens
-<!-- # EcomStore - A JavaScript eCommerce Project
+# EcomStore - A JavaScript eCommerce Project
 
 
 
@@ -125,4 +124,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📜 License
 
-This project is open-source. Feel free to use it for learning and personal projects. -->
+This project is open-source. Feel free to use it for learning and personal projects.
