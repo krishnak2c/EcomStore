@@ -1,0 +1,31 @@
+{
+  "name": "ecommerce",
+  "version": "0.1.0",
+  "private": true,
+  "description": "shopping",
+  "keywords": [
+    "e-commerce",
+    "WebApp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "license": "ISC",
+  "author": "krishna",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "deps": "^1.0.0",
+    "tailwindcss": "^4.1.11"
+  },
+  "devDependencies": {
+    "vite": "^7.0.4"
+  }
+}
