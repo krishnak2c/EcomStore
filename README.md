@@ -1,8 +1,15 @@
 # EcomStore - A JavaScript eCommerce Project
 
-
-
 A fully responsive and functional e-commerce website built with modern front-end technologies. This project showcases a complete online shopping experience, from browsing products to a fully functional shopping cart. It is built with vanilla JavaScript, HTML5, and CSS, and uses Vite for a fast and modern development workflow.
+
+## 🚀 Live Demo
+<div align="center">
+  <br />
+    <a href="ecom-store-psi-three.vercel.app" target="_blank">
+      <img src="public/readme/image.png" alt="Project Banner">
+    </a>
+  <br />
+</div>
 
 ## ✨ Features
 
@@ -18,15 +25,6 @@ A fully responsive and functional e-commerce website built with modern front-end
 -   **Local Storage Persistence:** The shopping cart state is saved in the browser's local storage, so items are not lost on page refresh.
 -   **Responsive Design:** The layout is optimized for various screen sizes, from mobile phones to desktops.
 -   **Static Pages:** Includes "About Us" and "Contact Us" pages.
-
-## 🚀 Live Demo
-<div align="center">
-  <br />
-    <a href="ecom-store-psi-three.vercel.app" target="_blank">
-      <img src="public/readme/image.png" alt="Project Banner">
-    </a>
-  <br />
----
 
 ## 🛠️ Technologies Used
 
