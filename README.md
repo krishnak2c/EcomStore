@@ -20,9 +20,12 @@ A fully responsive and functional e-commerce website built with modern front-end
 -   **Static Pages:** Includes "About Us" and "Contact Us" pages.
 
 ## 🚀 Live Demo
-
-A live demo of the project can be found here: **ecom-store-psi-three.vercel.app**
-
+<div align="center">
+  <br />
+    <a href="ecom-store-psi-three.vercel.app" target="_blank">
+      <img src="public/readme/image.png" alt="Project Banner">
+    </a>
+  <br />
 ---
 
 ## 🛠️ Technologies Used
