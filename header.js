@@ -41,7 +41,7 @@ const headerHTML = `
             <li class="nav-item">
               <a href="contact.html" class="nav-link">contact</a>
             </li>
-            <li class="nav-item fixed -top-1/10 right-2 sm:right-6 transform -translate-y-1/2 bg-black text-white p-2 rounded-md z-50">
+            <li class="cart-icon nav-item fixed right-1/40 top-0  bg-black text-white">
               <a
                 href="addToCart.html"
                 class="nav-link add-to-cart-button"
@@ -52,7 +52,6 @@ const headerHTML = `
             </li>
           </ul>
         </nav>
-      </div>
     </header>`;
 
     const headerElem = document.querySelector(".section-header");

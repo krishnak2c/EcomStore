@@ -1113,7 +1113,7 @@ footer {
   }
 
   .section-hero img {
-    width: 40%;
+    width: 90%;
   }
 
   .section-about .about-div {
@@ -1123,6 +1123,9 @@ footer {
 }
 
 @media (width <= 768px) {
+  .grid{
+    display: block;
+  }
   .grid-two--cols {
     grid-template-columns: 1fr;
   }
@@ -1171,13 +1174,13 @@ footer {
   } */
 
   .section-navbar .container {
-    flex-direction: column;
+    display: inline-block;
     gap: 3.2rem;
   }
 
   .section-why--choose {
     & img {
-      width: 30%;
+      width: 90%;
     }
 
     & .grid {
