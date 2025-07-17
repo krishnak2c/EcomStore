@@ -1133,6 +1133,7 @@ footer {
 
   .section-contact .grid-two--cols {
     grid-template-columns: 1fr;
+    display: block;
   }
 
   .grid-three--cols {
