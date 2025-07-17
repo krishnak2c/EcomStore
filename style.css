@@ -740,12 +740,11 @@ footer {
   display: flex;
   flex-wrap: wrap;
   align-items: flex-start;
-  gap: 2.5rem;
   width: 36rem;
   padding: 1.6rem;
   /* max-width: 1000px; */
   margin: 1.8vh auto;
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  box-shadow: rgba(0, 0, 0, 0.6) 0px 4px 12px;
   border-radius: 0.3rem;
   /*border: 0.1rem solid #ccc;
   */
@@ -753,7 +752,7 @@ footer {
   -moz-border-radius: 0.3rem;
   -ms-border-radius: 0.3rem;
   -o-border-radius: 0.3rem;
-  -webkit-border-radius: 0.3rem;
+  -webkit-border-radius: 3.3rem;
 }
 
 .category {
