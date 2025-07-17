@@ -5,7 +5,7 @@ A fully responsive and functional e-commerce website built with modern front-end
 ## 🚀 Live Demo
 <div align="center">
   <br />
-    <a href="ecom-store-psi-three.vercel.app" target="_blank">
+    <a href="https://ecom-store-psi-three.vercel.app" target="_blank">
       <img src="public/readme/image.png" alt="Project Banner">
     </a>
   <br />
