@@ -21,7 +21,7 @@ A fully responsive and functional e-commerce website built with modern front-end
 
 ## 🚀 Live Demo
 
-A live demo of the project can be found here: **Live Demo Link**
+A live demo of the project can be found here: **ecom-store-psi-three.vercel.app**
 
 ---
 
